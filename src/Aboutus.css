@@ -1,0 +1,30 @@
+.aboutus{
+    background-color: #E8EAE9;
+    height:auto;
+    /* margin:12.5%; */
+    line-height: 23px;
+    
+}
+.aboutus-container{
+    /* margin:12.5%; */
+    display: flex;
+    padding: 6%  12.5%;
+}
+.child-container{
+    /* margin:1%; */
+    margin:10px;
+    
+}
+ .child-containers{
+    /* padding:20px; */
+    margin:10px 30px;
+} 
+
+.para{
+    font-size: 13px; 
+    color:gray;
+}
+h5{
+    margin-bottom: 16px;
+    color:gray;
+}

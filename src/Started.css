@@ -1,0 +1,23 @@
+.mid {
+    height: 100%;
+    width: 100%;
+    background: #c71585;
+    text-align: left;
+    color: #fff;
+    margin-top: 7%;
+  }
+  .mid-heading {
+    margin-left: 15%;
+    margin-top: 0;
+    padding-top: 15px;
+  }
+  .mid-info {
+    margin-left: 15%;
+    padding-bottom: 25px;
+    width: 76%;
+    line-height: 20px;
+    text-align:justify;
+    
+    letter-spacing: 0.1px;
+  }
+  

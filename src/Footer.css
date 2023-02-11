@@ -1,0 +1,28 @@
+footer{
+    
+    background-color: black;
+    text-align: center;
+    height: 3rem;
+    
+    
+  }
+  
+  footer .footer-info{
+   /* margin: 1rem; */
+   color: white;
+   padding-top: 1rem ;
+   margin-right: 18rem ;
+   font-size: 0.9rem;
+  }
+
+  @media screen and (max-width: 992px) {
+    .footer-info {
+        font-size: 1rem;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .footer-info {
+        font-size: .7rem;
+    }
+  }

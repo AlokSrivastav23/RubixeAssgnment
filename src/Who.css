@@ -1,0 +1,44 @@
+.About{
+    display: flex;
+    flex-direction: row;
+    margin-top: 3%;
+}
+.right{
+    width: 50%;
+    margin-left: 17%;
+    
+}
+
+.border{
+    border: 1px solid #c71585;
+    width: 30%;
+    /* margin-top: 10%; */
+    /* margin-bottom: 30%; */
+    margin-top: 13%;
+    margin-left: 10%;
+}
+.left-img{
+    position: relative;
+    width: 60%;
+    height:60%;
+    margin-left: 10%;
+    margin-top: 1%;
+    z-index: -1;
+    
+}
+.container{
+    /* border: 1px sloid green; */
+    /* color: green; */
+    position: relative;
+    background-color:#184F2F;
+    height: 30%;
+    width: 45%;
+    margin-left: 26%;
+    /* z-index: 9; */
+    top: -20%;
+    opacity: 0.9;
+    /* margin-top: -5%; */
+    /* margin-bottom: 20%; */
+
+    /* float: right; */
+}
